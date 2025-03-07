@@ -10,7 +10,7 @@ main{
 .navbar ul{
     list-style-type: none;
     background-color: #282b30;
-    padding: 20px;
+    padding: 40px;
     margin: 0px;
     overflow: hidden;
     display: flex;
@@ -24,7 +24,7 @@ main{
     color: white;
     font-size: 20px;
     font-weight: bold;
-    padding: 50px;
+    padding: 25px;
     text-decoration: none;
 }
 .navbar a:hover{
