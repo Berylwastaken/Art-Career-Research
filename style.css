@@ -10,7 +10,7 @@ main{
 .navbar ul{
     list-style-type: none;
     background-color: #282b30;
-    padding: 40px;
+    padding: 30px;
     margin: 0px;
     overflow: hidden;
     display: flex;
