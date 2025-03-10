@@ -170,3 +170,6 @@ main{
 .btn-17:hover:after {
   --progress: -102%;
 }
+.btn-17{
+  margin: 500px;
+}
