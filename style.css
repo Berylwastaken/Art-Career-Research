@@ -41,7 +41,7 @@ main{
 }
 
 .btn-17 {
-  margin: 50;
+  margin: 50%;
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: button;
   background-color: #000;
