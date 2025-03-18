@@ -112,7 +112,6 @@ main{
 
 .qb {
   font-size: 20px;
-  overflow-wrap: break-word; /* Ensure text doesn't overflow the container */
 }
 
 .qb-header {
@@ -129,8 +128,12 @@ main{
   justify-content: center;
   align-items: center;
   gap: 20px;
+  position: absolute;
+  top: 56%;
+  left: 30%;
+  transform: translateY(-50%);
   text-align: center; /* Center text inside the container */
   max-width: 800px; /* Set a smaller max-width */
-  height: auto; /* Allow the container to grow with content */
+  max-height: 600px; /* Set a fixed height */
   overflow-y: auto; /* Allow vertical scrolling */
 }
