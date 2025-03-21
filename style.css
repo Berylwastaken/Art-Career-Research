@@ -23,7 +23,7 @@ body{
 main{
   width: 100%;
   max-width: 1200px;
-  padding: 100px 20px 20px; /* Added padding to the top to start below the navbar */
+  padding: 140px 20px 20px; /* Increased padding to the top to start lower than the navbar */
   box-sizing: border-box;
   position: relative;
   z-index: 1; /* Ensure main content is in front of particles */
