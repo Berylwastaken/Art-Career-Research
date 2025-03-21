@@ -126,6 +126,7 @@ main{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  left: 67%;
   gap: 20px;
   text-align: center; /* Center text inside the container */
   max-width: 800px; /* Set a smaller max-width */
