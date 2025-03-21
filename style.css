@@ -129,7 +129,5 @@ main{
   gap: 20px;
   text-align: center; /* Center text inside the container */
   max-width: 800px; /* Set a smaller max-width */
-  left: 100%; /* Moved more to the right */
-  top: 100%;
-  transform: translate(-50%, -50%);
+  transform: translate(-100%, -100%);
 }
