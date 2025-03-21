@@ -6,7 +6,7 @@ body{
   color: white;
   font-family: Roboto;
   background-color: #1e2124;
-  overflow: hidden;
+  overflow: auto; /* Changed from hidden to auto */
   padding: 0px;
   margin: 0px;
   height: 100vh;
@@ -128,12 +128,6 @@ main{
   justify-content: center;
   align-items: center;
   gap: 20px;
-  position: absolute;
-  top: 56%;
-  left: 30%;
-  transform: translateY(-50%);
   text-align: center; /* Center text inside the container */
   max-width: 800px; /* Set a smaller max-width */
-  max-height: 600px; /* Set a fixed height */
-  overflow-y: auto; /* Allow vertical scrolling */
 }
