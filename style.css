@@ -123,10 +123,14 @@ main{
   padding: 30px;
   border-radius: 5px;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
   gap: 20px;
   text-align: center; /* Center text inside the container */
   max-width: 800px; /* Set a smaller max-width */
+  left: 40%; /* Moved more to the right */
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
